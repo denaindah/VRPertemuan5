@@ -1,0 +1,399 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-63:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b71955038ec2f4f176ade203d8ffb699\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b63798a2a9d7552f626aecc29a574f81\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\cc9001f6c1c044595e71da0deb2b31eb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\02c43d0ab92c438878b06cb28c46b2d1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5d9c8ab758590ca67e9226851438cb44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b80dbd15cde48f09e62cbb01fadc7adb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\98957d04f841129bfd81c1fba8363389\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\bdfcb28a1f1e733148bb9618bbc2fcf9\AndroidManifest.xml:17:1-22:12
+MERGED from [:gvr-keyboard:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\42381ecb09d5a710d52fe68563fe4416\AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\770e888995702482c36b13e7e428bb34\AndroidManifest.xml:2:1-9:12
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\55a72c36638a62313a2d8247b1d25cd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e572708a857f8985b1dfaaddf7c51378\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\0a59f8679526a87d2d78fc08c8d0a407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\c06694eea15040579b8680d81145788a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\a8aa92c5dcd4fad3628ecad7b22a3d2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e5eb693ab562dc3a50acd54b0bd81cc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\be5a0cfcd5740559622305ed0d89d8e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\1997f4bad9788998894777c8672ba248\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\4e0921c9e415c93a8005538fd2faaac5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\ce4655d9259e9458397b9fca7c3d780b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\685815880d4d3ef0424fd8f02d0b6136\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\3bc92b9160609f60ddb28c916a09fae8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\add72357f1d48111de90cd684ffad859\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5d267f635a2a9b94bf6ca377318fe624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\eadbe7a21cbf9d099bf333203291a7ff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\000e46e194da10b18d9ffc4b522e2c70\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5b5b5155a13869bf9301e180a4a88c6f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e86a2fec70a4a218bd1d2ab8fbf6abb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\f7b268c01e8cfc8709834124f9922dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b5981cc2d2537193b960d1c459fd233c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\87b9af414aefcf2c6328ff3fdb68ab3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\d7e680c9a0c052e7f83e650667b1e4be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\979f400f78a4813ffaa1933379a08766\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\99695872df73db7a54a3137117d72d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\be3ea25ee5287af8a77c1ac355708854\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\f397cf2cbd9246f7174bf8dfca4457eb\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-110
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:111-157
+	android:versionCode
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:158-198
+supports-screens
+ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-61:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b63798a2a9d7552f626aecc29a574f81\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b63798a2a9d7552f626aecc29a574f81\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\cc9001f6c1c044595e71da0deb2b31eb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\cc9001f6c1c044595e71da0deb2b31eb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\02c43d0ab92c438878b06cb28c46b2d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\02c43d0ab92c438878b06cb28c46b2d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b80dbd15cde48f09e62cbb01fadc7adb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b80dbd15cde48f09e62cbb01fadc7adb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\98957d04f841129bfd81c1fba8363389\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\98957d04f841129bfd81c1fba8363389\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:22:5-26:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:11:5-28:19
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:20:5-45:19
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:20:5-45:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\eadbe7a21cbf9d099bf333203291a7ff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\eadbe7a21cbf9d099bf333203291a7ff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\000e46e194da10b18d9ffc4b522e2c70\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\000e46e194da10b18d9ffc4b522e2c70\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\eadbe7a21cbf9d099bf333203291a7ff\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b71955038ec2f4f176ade203d8ffb699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b71955038ec2f4f176ade203d8ffb699\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b63798a2a9d7552f626aecc29a574f81\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b63798a2a9d7552f626aecc29a574f81\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\cc9001f6c1c044595e71da0deb2b31eb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\cc9001f6c1c044595e71da0deb2b31eb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\02c43d0ab92c438878b06cb28c46b2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\02c43d0ab92c438878b06cb28c46b2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5d9c8ab758590ca67e9226851438cb44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5d9c8ab758590ca67e9226851438cb44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b80dbd15cde48f09e62cbb01fadc7adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b80dbd15cde48f09e62cbb01fadc7adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\98957d04f841129bfd81c1fba8363389\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\98957d04f841129bfd81c1fba8363389\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\bdfcb28a1f1e733148bb9618bbc2fcf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\bdfcb28a1f1e733148bb9618bbc2fcf9\AndroidManifest.xml:20:5-44
+MERGED from [:gvr-keyboard:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\42381ecb09d5a710d52fe68563fe4416\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\42381ecb09d5a710d52fe68563fe4416\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\770e888995702482c36b13e7e428bb34\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\770e888995702482c36b13e7e428bb34\AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:7:5-9:41
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\55a72c36638a62313a2d8247b1d25cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\55a72c36638a62313a2d8247b1d25cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e572708a857f8985b1dfaaddf7c51378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e572708a857f8985b1dfaaddf7c51378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\0a59f8679526a87d2d78fc08c8d0a407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\0a59f8679526a87d2d78fc08c8d0a407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\c06694eea15040579b8680d81145788a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\c06694eea15040579b8680d81145788a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\a8aa92c5dcd4fad3628ecad7b22a3d2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\a8aa92c5dcd4fad3628ecad7b22a3d2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e5eb693ab562dc3a50acd54b0bd81cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e5eb693ab562dc3a50acd54b0bd81cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\be5a0cfcd5740559622305ed0d89d8e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\be5a0cfcd5740559622305ed0d89d8e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\1997f4bad9788998894777c8672ba248\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\1997f4bad9788998894777c8672ba248\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\4e0921c9e415c93a8005538fd2faaac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\4e0921c9e415c93a8005538fd2faaac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\ce4655d9259e9458397b9fca7c3d780b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\ce4655d9259e9458397b9fca7c3d780b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\685815880d4d3ef0424fd8f02d0b6136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\685815880d4d3ef0424fd8f02d0b6136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\3bc92b9160609f60ddb28c916a09fae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\3bc92b9160609f60ddb28c916a09fae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\add72357f1d48111de90cd684ffad859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\add72357f1d48111de90cd684ffad859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5d267f635a2a9b94bf6ca377318fe624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5d267f635a2a9b94bf6ca377318fe624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\eadbe7a21cbf9d099bf333203291a7ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\eadbe7a21cbf9d099bf333203291a7ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\000e46e194da10b18d9ffc4b522e2c70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\000e46e194da10b18d9ffc4b522e2c70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5b5b5155a13869bf9301e180a4a88c6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\5b5b5155a13869bf9301e180a4a88c6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e86a2fec70a4a218bd1d2ab8fbf6abb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\e86a2fec70a4a218bd1d2ab8fbf6abb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\f7b268c01e8cfc8709834124f9922dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\f7b268c01e8cfc8709834124f9922dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b5981cc2d2537193b960d1c459fd233c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\b5981cc2d2537193b960d1c459fd233c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\87b9af414aefcf2c6328ff3fdb68ab3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\87b9af414aefcf2c6328ff3fdb68ab3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\d7e680c9a0c052e7f83e650667b1e4be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\d7e680c9a0c052e7f83e650667b1e4be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\979f400f78a4813ffaa1933379a08766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\979f400f78a4813ffaa1933379a08766\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\99695872df73db7a54a3137117d72d8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\99695872df73db7a54a3137117d72d8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\be3ea25ee5287af8a77c1ac355708854\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\be3ea25ee5287af8a77c1ac355708854\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\f397cf2cbd9246f7174bf8dfca4457eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\f397cf2cbd9246f7174bf8dfca4457eb\AndroidManifest.xml:20:5-44
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:11:5-13:35
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+	android:required
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:13:9-32
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-67
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:17:5-67
+MERGED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:9-60:68
+	android:value
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from [:unityLibrary] D:\Semester7\pemrograman game\VR Petemuan 5\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-42
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\81a4f6a13f4867309fa244bfa2c6e70d\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\332d998c77f107e0ceaffa1601ee04ed\AndroidManifest.xml:24:13-58
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:24:13-27:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:26:17-80
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b6b662475c49607fb79d5d34c8295df\AndroidManifest.xml:26:27-77
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\2b73e91fdac32f81723bdc5ddffe964f\AndroidManifest.xml:18:13-81
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.NFC
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:18:5-62
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:18:22-59
+activity#com.google.cardboard.sdk.QrCodeCaptureActivity
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:21:9-25:66
+	android:label
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:24:13-67
+	android:exported
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:22:13-74
+activity#com.google.cardboard.sdk.HeadsetDetectionActivity
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:31:9-44:20
+	android:label
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:34:13-69
+	android:exported
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:32:13-77
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:scheme:cardboard
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:37:13-43:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:38:25-74
+category#android.intent.category.DEFAULT
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:40:27-73
+data
+ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:42:17-52
+	android:scheme
+		ADDED from [:sdk:] C:\Users\denai\.gradle\caches\transforms-2\files-2.1\fa2be8e184128c2e992f4fbb37f89647\AndroidManifest.xml:42:23-49
